@@ -130,6 +130,14 @@ const allTools = [
           "url": "https://www.descript.com"
         },
         {
+          "name": "Remio",
+          "description": "Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused personal context retrieval.",
+          "category": "Productivity",
+          "pricing": "freemium",
+          "logo": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=300&fit=crop",
+          "url": "https://remio.ai/"
+        },
+        {
           "name": "Midjourney",
           "description": "AI-powered image generation tool that creates stunning artworks and illustrations from text descriptions, popular among artists and designers.",
           "category": "Art Generation",
@@ -436,6 +444,5 @@ document.addEventListener('click', (event) => {
 });
 
 console.log("hello");
-
 
 
