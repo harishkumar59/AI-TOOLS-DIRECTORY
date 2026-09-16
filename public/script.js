@@ -88,6 +88,15 @@ function displaySearchResults(tools) {
 // This would ideally be loaded from a separate JSON file or database
 const allTools = [
     // Tools from homepage
+
+        {
+          "name": "AI Tools Radar",
+          "description": "AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter issues.",
+          "category": "AI Tool Discovery",
+          "pricing": "free",
+          "logo": "https://www.google.com/s2/favicons?domain=aitoolsradar.com&sz=128",
+          "url": "https://aitoolsradar.com/"
+        },
     
         {
           "name": "DALL-E",
@@ -436,6 +445,5 @@ document.addEventListener('click', (event) => {
 });
 
 console.log("hello");
-
 
 
