@@ -274,6 +274,15 @@ const allTools = [
           "url": "https://replit.com/ghostwriter"
         },
 
+        {
+          "name": "agent-qa",
+          "description": "Natural-language testing for Web, Android, and iOS with persistent memory and validated self-improvement. Includes CLI, dashboard, MCP, and agent skills. The local package is free; model-provider costs are separate.",
+          "category": "Software Testing",
+          "pricing": "free",
+          "logo": "/logos/programmes/agent-qa.png",
+          "url": "https://vostride.com"
+        },
+
         //...  Tools from Writing pages ...
 
 {
